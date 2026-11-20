@@ -7,6 +7,7 @@
 
 
 _GUI Looks:_
+
 <img width="891" height="967" alt="gui1 1" src="https://github.com/user-attachments/assets/dc978c98-9ed1-47af-b5d8-f9874ecd0dd8" />
 
 Use Focus Assist, F6 is for Main Quest by default
