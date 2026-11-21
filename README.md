@@ -8,11 +8,13 @@
 
 _**GUI** Looks:_
 
-<img width="767" height="836" alt="gui1 2" src="https://github.com/user-attachments/assets/66de2131-4881-4918-ac45-d1c369de763e" />
+<img width="768" height="914" alt="guiv1.3" src="https://github.com/user-attachments/assets/33ca72f2-41a1-410b-bd42-649212128d80" />
+
 
 _Settings:_
 
-<img width="380" height="654" alt="settings1 2" src="https://github.com/user-attachments/assets/9dbc2d07-de8c-43c5-bec2-67ca2649038b" />
+<img width="394" height="671" alt="settingsv1.3" src="https://github.com/user-attachments/assets/e73b7cc8-bd90-45cd-9ace-8b7d37d40ebf" />
 
 
-After Start It Works on Main Quest by default 🐈‍⬛
+- Key binds are changeable
+- After Start It Works on Main Quest by default 🐈‍⬛
