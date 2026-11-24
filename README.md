@@ -8,12 +8,14 @@
 
 _**GUI** Looks:_
 
-<img width="768" height="914" alt="guiv1.3" src="https://github.com/user-attachments/assets/33ca72f2-41a1-410b-bd42-649212128d80" />
+<img width="765" height="967" alt="guiv1.4" src="https://github.com/user-attachments/assets/eec20f60-7ee4-4eb8-b466-7e6e3a703b62" />
+
 
 
 _Settings:_
 
-<img width="394" height="671" alt="settingsv1.3" src="https://github.com/user-attachments/assets/e73b7cc8-bd90-45cd-9ace-8b7d37d40ebf" />
+<img width="395" height="796" alt="guisettingsv1.4" src="https://github.com/user-attachments/assets/1dc52e8e-9ea1-4f03-8f58-de8890e3abc4" />
+
 
 
 - Key binds are changeable
